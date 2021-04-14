@@ -4,7 +4,7 @@
     <string name="brands" />
     <string-array name="beer_colors">
         <item>light</item>
-        <item>ambar</item>
+        <item>amber</item>
         <item>brown</item>
     </string-array>
 </resources>
