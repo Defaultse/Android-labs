@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">chapter 2</string>
+    <string name="find_beer">Button</string>
+    <string name="brands" />
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>ambar</item>
+        <item>brown</item>
+    </string-array>
+</resources>
